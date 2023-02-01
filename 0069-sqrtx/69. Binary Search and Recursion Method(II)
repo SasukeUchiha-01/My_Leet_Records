@@ -1,3 +1,6 @@
+// Memory: 39.6Mb
+// Runtime: 1ms
+
 class Solution {
     public int mySqrt(int x) {
         if(x == 0) return 0;
